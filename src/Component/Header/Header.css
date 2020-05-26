@@ -1,0 +1,32 @@
+h1{
+    font-size: 60px;
+    color:white;
+}
+.logo{
+    font-size: 80px;
+    color: white;
+    font-weight: 700;
+}
+.form{
+    text-align: center;
+    background-color: #0077FE;
+    padding: 20px 50px 50px 50px;
+}
+.form h2{
+    color: white;
+    padding: 0 20px 20px 20px;
+}
+input[type=text]{
+    padding: 1% 5% 1% 5%;
+    border-radius: 50px;
+    border: 1px solid #0077FE;
+}
+
+.form-submit{
+    padding: 1% 2%;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    border: none;
+    margin-left: 5px;
+    cursor: pointer;
+}

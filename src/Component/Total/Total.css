@@ -1,0 +1,17 @@
+.total{
+    padding: 5px;
+    padding-left: 30px;
+    color: black;
+}
+.total h1{
+    color: black;
+} 
+.total button{
+    padding: 3% 7%;
+    margin-top: 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

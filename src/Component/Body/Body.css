@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+}
+.data-container{
+    width: 60%;
+    margin-left: 200px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+.total{
+    flex-grow: 6;
+    text-align: center;
+    margin-top: 20px;
+}
+.data-container p, .total p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
